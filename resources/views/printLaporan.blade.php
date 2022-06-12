@@ -38,7 +38,7 @@
     <div id="ui-view" data-select2-id="ui-view"><div><div class="card">
         <div class="card-header">Invoice
             <strong>#LaporanKeuangan-83192</strong>
-            <a class="btn btn-sm btn-secondary float-right mr-1 d-print-none" href="#" onclick="javascript:window.print();" data-abc="true">
+            <a class="btn btn-sm btn-primary float-right mr-1 d-print-none" href="#" onclick="javascript:window.print();" data-abc="true">
             <i class="fa fa-print"></i> Print</a>
         </div>
         <div class="card-body">

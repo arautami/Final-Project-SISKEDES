@@ -106,7 +106,7 @@
             <footer class="sticky-footer bg-white">
                 <div class="container my-auto">
                     <div class="copyright text-center my-auto">
-                        <span>Copyright &copy; Pemrograman Web</span>
+                        <span>Copyright &copy; Pemrograman Web A Kelompok 5</span>
                     </div>
                 </div>
             </footer>
